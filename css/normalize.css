@@ -86,8 +86,8 @@ template {
  * Remove the gray background color from active links in IE 10.
  */
 
-a {
-  background-color: transparent;
+html {
+  background-color: indianred;
 }
 
 /**
@@ -96,7 +96,7 @@ a {
 
 a:active,
 a:hover {
-  outline: 0;
+  outline: 4;
 }
 
 /* Text-level semantics
@@ -142,7 +142,7 @@ h1 {
  */
 
 mark {
-  background: #ff0;
+  background: #4286f4;
   color: #000;
 }
 
